@@ -24,7 +24,7 @@
         .pict{width:230px;height:230px;overflow:hidden;position:absolute;top:50px;right:0px;width:29%;max-width:230px;}
         .pic img{width:100%;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;}
         .pict img{width:100%;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;}
-        #slides img{width:100%;}
+        #slides img{width:96%;}
         #slides{margin-left:auto;margin-right:auto;}
         #slides ol{position:relative;width:120px;height: 20px;top:-40px;left:46%;}
         #slides ol li{float:left;width: 10px;height: 10px;margin: 12px;background: #ffffff;}
