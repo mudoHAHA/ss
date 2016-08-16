@@ -9,8 +9,8 @@
         li a:hover{font-size:21px;text-decoration:none}
         .lili:active{background-color:#185bac;}
         #footer{width:100%;height:160px;background-color:#266ec4;float:left;}
-        .foot{width:100%;height:100px;margin:1.2% auto;max-width:444px;}
-        .foot p{font-size:17px;color:#ffffff;line-height:30px;}
+        .foot{width:100%;margin:1.2% auto;max-width:444px;}
+        .foot p{font-size:17px;color:#ffffff;line-height:30px;text-align: center;}
         p span{font-weight:700;font-size:15px;}
         
         #bgcolor{width:100%;height:13.6cm;background-color:#266ec4;overflow:hidden;}
